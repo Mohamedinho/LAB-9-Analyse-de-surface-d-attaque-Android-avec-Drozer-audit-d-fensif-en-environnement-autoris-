@@ -117,8 +117,43 @@ Voir le fichier `triage.csv`.
 ### Annexe B : Captures d'écran des preuves
 #### Figure 1 : Agent Drozer activé
 
-![Agent Drozer activé](preuves/screenshots/01_drozer_agent_on.png)
+<img width="377" height="828" alt="01_drozer_agent_on" src="https://github.com/user-attachments/assets/cf6c6392-3a5e-4768-9d01-901462630a22" />
 
+#### Figure 2 : Connexion à la console Drozer
+
+<img width="769" height="391" alt="02_drozer_console_connect" src="https://github.com/user-attachments/assets/0398761e-24c0-47ee-bfcd-eee9cf259a02" />
+
+### Figure 3 : Identification du package DIVA
+
+<img width="1094" height="68" alt="03_package_list_diva" src="https://github.com/user-attachments/assets/42a7f155-2e32-4d1e-b30c-928af4bc9ddc" />
+
+### Figure 4 : Informations générales de l’application
+
+<img width="1095" height="381" alt="04_package_info_diva" src="https://github.com/user-attachments/assets/33c609d5-00ca-46f3-9aba-3e141337f593" />
+
+### Figure 5 : Activités exportées
+
+<img width="1092" height="193" alt="05_activity_info" src="https://github.com/user-attachments/assets/b166cec5-9941-4430-9ff3-d2d1b6acc206" />
+
+### Figure 6 : Services exportés
+
+<img width="1109" height="146" alt="06_service_info" src="https://github.com/user-attachments/assets/8696b3a6-a818-4521-be0b-75e2c66182aa" />
+
+### Figure 7 : Broadcast receivers
+
+<img width="436" height="86" alt="07_broadcast_info" src="https://github.com/user-attachments/assets/9131e38b-c2a5-4c33-b169-28795bdc1596" />
+
+### Figure 8 : Content Provider exposé
+
+<img width="570" height="220" alt="08_provider_info" src="https://github.com/user-attachments/assets/c2ebbb67-c0b1-462c-95e3-6da410a67cd7" />
+
+### Figure 9 : Analyse du manifeste Android
+
+<img width="708" height="723" alt="09_manifest_analysis" src="https://github.com/user-attachments/assets/8edf1182-6993-4608-b28c-fea1e20b0b6c" />
+
+### Figure 10 : URI accessibles du Content Provider
+
+<img width="850" height="240" alt="10_provider_uris" src="https://github.com/user-attachments/assets/b6292a70-3891-490b-969a-4432c0e7318d" />
 
 Les captures d'écran doivent être placées dans le dossier :
 
