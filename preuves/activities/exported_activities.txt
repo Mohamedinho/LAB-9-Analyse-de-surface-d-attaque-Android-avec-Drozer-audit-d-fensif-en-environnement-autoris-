@@ -1,0 +1,14 @@
+Package: jakhar.aseem.diva
+
+Activities exposées :
+- jakhar.aseem.diva.MainActivity
+  Permission: null
+  Intent Filter: MAIN / LAUNCHER
+
+- jakhar.aseem.diva.APICredsActivity
+  Permission: null
+  Intent Filter: jakhar.aseem.diva.action.VIEW_CREDS
+
+- jakhar.aseem.diva.APICreds2Activity
+  Permission: null
+  Intent Filter: jakhar.aseem.diva.action.VIEW_CREDS2

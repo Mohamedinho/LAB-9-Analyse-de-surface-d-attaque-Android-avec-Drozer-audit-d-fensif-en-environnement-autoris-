@@ -1,0 +1,10 @@
+Provider identifié :
+- Nom : jakhar.aseem.diva.NotesProvider
+- Autorité : jakhar.aseem.diva.provider.notesprovider
+- Exporté : true
+- Permission lecture : null
+- Permission écriture : null
+
+URI accessibles :
+- content://jakhar.aseem.diva.provider.notesprovider/notes
+- content://jakhar.aseem.diva.provider.notesprovider/notes/
