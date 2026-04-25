@@ -5,8 +5,8 @@
 - **Application** : DIVA - Damn Insecure and Vulnerable App
 - **Package** : jakhar.aseem.diva
 - **Version** : 1.0
-- **Date d'audit** : [DATE]
-- **Auditeur** : [NOM]
+- **Date d'audit** :25/04/2026
+- **Auditeur** : Mohamed DOUASSI
 
 ## Résumé exécutif
 
