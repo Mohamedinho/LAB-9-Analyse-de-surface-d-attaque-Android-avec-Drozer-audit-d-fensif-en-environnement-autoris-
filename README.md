@@ -115,6 +115,10 @@ ou utiliser une configuration de sauvegarde sécurisée pour éviter l'extractio
 Voir le fichier `triage.csv`.
 
 ### Annexe B : Captures d'écran des preuves
+#### Figure 1 : Agent Drozer activé
+
+![Agent Drozer activé](preuves/screenshots/01_drozer_agent_on.png)
+
 
 Les captures d'écran doivent être placées dans le dossier :
 
